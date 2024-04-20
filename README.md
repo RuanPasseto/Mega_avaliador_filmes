@@ -31,7 +31,7 @@ Site de avalição de filmes e series, alem de eventos esportivos, com o objetiv
 ## 🚀 Como executar o projeto
 
 Clone este repositório
-https://github.com/RuanPasseto/Desafio---Aplica-o-WEB.git
+https://github.com/RuanPasseto/Mega_avaliador_filmes.git
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [VS Code](https://code.visualstudio.com/). 
